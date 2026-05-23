@@ -1,0 +1,18 @@
+# Word temp files
+~$*.docx
+~$*.tmp
+*.tmp
+
+# Documents (don't upload papers)
+*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json
